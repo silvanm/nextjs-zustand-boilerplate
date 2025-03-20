@@ -1,0 +1,50 @@
+# Project Intelligence: Next.js + Zustand Boilerplate
+
+## Project Patterns
+
+### Code Style
+- TypeScript is used throughout the project
+- Functional components with React hooks
+- "use client" directive for client-side components
+- Tailwind CSS for styling
+
+### Zustand Patterns
+- Single store pattern
+- State and actions defined in the same store
+- Components subscribe only to what they need
+- Actions are defined as functions in the store
+
+### Component Organization
+- Components are organized by feature/purpose
+- Each component has a single responsibility
+- Components are placed in the src/components directory
+- Store is placed in the src/store directory
+
+### File Naming
+- PascalCase for component files
+- camelCase for utility files
+- .tsx extension for React components
+- .ts extension for TypeScript files
+
+## Workflow Preferences
+- Vercel is used for deployment
+- Next.js App Router is used for routing
+- TypeScript for type safety
+- ESLint for code linting
+
+## Project Structure
+```
+/
+├── public/           # Static assets
+├── src/
+│   ├── app/          # Next.js App Router
+│   ├── components/   # React components
+│   └── store/        # Zustand store
+├── memory-bank/      # Project documentation
+└── package.json      # Dependencies and scripts
+```
+
+## Deployment
+- The project is deployed to Vercel
+- No custom domain is set up yet
+- Deployment URL: https://reactzustand-hvcg43aon-silvan-mhlemanns-projects.vercel.app
