@@ -87,7 +87,7 @@ const { increasePopulation } = useStore((state) => ({
 First, clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/nextjs-zustand-boilerplate.git
+git clone https://github.com/silvanm/nextjs-zustand-boilerplate.git
 cd nextjs-zustand-boilerplate
 ```
 
