@@ -25,3 +25,4 @@ This project is a boilerplate/demo application built with Next.js and Zustand to
 ## Deployment
 - Deployed to Vercel at: https://reactzustand-hvcg43aon-silvan-mhlemanns-projects.vercel.app
 - Vercel dashboard: https://vercel.com/silvan-mhlemanns-projects/reactzustand/5Y9LoP6Rg31VU4NKynUGdqhAfDse
+- GitHub repository: https://github.com/silvanm/nextjs-zustand-boilerplate

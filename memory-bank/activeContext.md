@@ -21,7 +21,7 @@ Potential next steps for this project could include:
 
 ### Deployment Strategy
 - The application is deployed to Vercel as a new project
-- The deployment is linked to the GitHub repository for continuous deployment
+- The application is hosted on GitHub at https://github.com/silvanm/nextjs-zustand-boilerplate
 - No custom domains have been set up yet
 
 ### Documentation Strategy

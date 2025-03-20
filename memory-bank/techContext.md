@@ -82,3 +82,4 @@ No custom environment variables are required for this demo application.
 ### Deployment URLs
 - **Production**: https://reactzustand-hvcg43aon-silvan-mhlemanns-projects.vercel.app
 - **Dashboard**: https://vercel.com/silvan-mhlemanns-projects/reactzustand/5Y9LoP6Rg31VU4NKynUGdqhAfDse
+- **GitHub Repository**: https://github.com/silvanm/nextjs-zustand-boilerplate
